@@ -8,6 +8,8 @@ Python
 PHP
 Django
 
+Node.js
+Flutter
 
 
 Thank you :)
